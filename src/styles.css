@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(249, 203, 226);
+  font-family: "Open Sans", sans-serif;
+}
+
+.titles {
+  background-color: rgb(249, 203, 226);
+  font-size: 24px;
+  font-family: "Courier New";
+  color: blue;
+}
+
+.paragraphs1 {
+  background-color: violet;
+  color: blue;
+  border-radius: 30px;
+}
+.dropdown {
+  background-color: azure;
+  color: blue;
+}
+
+.btn-group {
+  background-color: palevioletred;
+  color: blue;
+}
